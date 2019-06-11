@@ -1,0 +1,74 @@
+.section {
+	padding: 30px;
+}
+.header {
+	font-size: 20px;
+	line-height: 1.5; /*растояние между сток*/
+	margin: 60px auto;
+}
+.header span {
+	display: block;	
+}
+.form-header {
+	font-size: 20px;
+	font-weight: 900;
+	margin-bottom: 20px;
+}
+.form {
+	border: 5px solid #2727d9; 
+	padding: 35px 20px;
+}
+.form input {
+	margin-bottom: 11px;
+} 
+.video {
+	margin-bottom: 30px;
+}
+.form-btn {
+	margin: 20px auto;
+	background-color: #2727d9;
+}
+/*2 секция */
+
+.section-header {
+	font-size: 20px;
+	font-weight: 900;
+}
+.feature {
+	margin: 60px auto;
+}
+.feature p {
+	margin-top: 20px;
+}
+.feature-box {
+	height: 160px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
